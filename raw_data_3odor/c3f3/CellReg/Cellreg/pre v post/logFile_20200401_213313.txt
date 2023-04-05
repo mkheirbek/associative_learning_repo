@@ -1,0 +1,50 @@
+Sessions list:
+-----------------
+Session 1 - B:\CellReg - 3odor\c3f3\pre\spatial_footprints.mat
+Session 2 - B:\CellReg - 3odor\c3f3\post\spatial_footprints.mat
+
+
+General data parameters:
+------------------------
+Imaging technique - 1-photon
+Number of sessions - 2
+FOV size - 609.28X609.28 [microns] ; (x,y)
+Image size - 512X512 [pixels] ; (x,y)
+
+
+Session alignment parameters:
+----------------------------------
+Reference session - 1
+Alignment Type - Translations
+
+
+Cell registration parameters:
+-----------------------------
+Model maximal distance - 12 [microns]
+Number of bins - 40
+Initial registration type - Spatial correlation
+Initial threshold - 0.51
+Registration approach - Probabilistic modeling
+Final registration type - Spatial correlations
+P_same threshold - 0.01 
+
+
+General results:
+----------------
+Final number of cells - 67
+Average fraction of active cells - 0.72
+
+Fraction of false positives - 0.96
+Fraction of false negatives - 0
+Fraction of uncertain cell-pairs - 0.56
+
+Average register score - 0.68
+Average true positive score - 0.3
+Average true negative score - 1
+Average exclusivity score - 1
+
+Discrepancy of the model - 0.21
+
+
+Comments:
+---------
