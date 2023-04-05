@@ -1,0 +1,50 @@
+Sessions list:
+-----------------
+Session 1 - Y:\data\odor_ass_learning_2019\4odor_revision\results\dhpc39\pre\data\spatial_footprints.mat
+Session 2 - Y:\data\odor_ass_learning_2019\4odor_revision\results\dhpc39\post\data\spatial_footprints.mat
+Session 3 - Y:\data\odor_ass_learning_2019\4odor_revision\results\dhpc39\post_hiatus\data\spatial_footprints.mat
+
+
+General data parameters:
+------------------------
+Number of sessions - 3
+FOV size - 609.28X609.28 [microns] ; (x,y)
+Image size - 512X512 [pixels] ; (x,y)
+
+
+Session alignment parameters:
+----------------------------------
+Reference session - 1
+Alignment Type - Translations and Rotations
+
+
+Cell registration parameters:
+-----------------------------
+Model maximal distance - 14 [microns]
+Number of bins - 40
+Initial registration type - Spatial correlation
+Initial threshold - 0.64
+Registration approach - Probabilistic modeling
+Final registration type - Spatial correlations
+P_same threshold - 0.93 
+
+
+General results:
+----------------
+Final number of cells - 303
+Average fraction of active cells - 0.55
+
+Fraction of false positives - 0.01
+Fraction of false negatives - 0.06
+Fraction of uncertain cell-pairs - 0.1
+
+Average register score - 0.96
+Average true positive score - 0.99
+Average true negative score - 0.96
+Average exclusivity score - 0.99
+
+Discrepancy of the model - 0.15
+
+
+Comments:
+---------
