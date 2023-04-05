@@ -1,0 +1,38 @@
+Sessions list:
+-----------------
+Session 1 - Y:\data\odor_ass_learning_2019\4odor revision\results\c18m9\pre\data\spatial_footprints.mat
+Session 2 - Y:\data\odor_ass_learning_2019\4odor revision\results\c18m9\post\data\spatial_footprints.mat
+Session 3 - Y:\data\odor_ass_learning_2019\4odor revision\results\c18m9\post_hiatus\data\spatial_footprints.mat
+
+
+General data parameters:
+------------------------
+Number of sessions - 3
+FOV size - 609.28X609.28 [microns] ; (x,y)
+Image size - 512X512 [pixels] ; (x,y)
+
+
+Session alignment parameters:
+----------------------------------
+Reference session - 1
+Alignment Type - Translations and Rotations
+
+
+Cell registration parameters:
+-----------------------------
+Model maximal distance - 18 [microns]
+initial registration type - Centroid distances
+Initial threshold - 7 [microns]
+Registration approach - Simple threshold
+Final threshold - 7 [microns] 
+
+
+General results:
+----------------
+Final number of cells - 54
+Average fraction of active cells - 0.49
+
+
+
+Comments:
+---------
