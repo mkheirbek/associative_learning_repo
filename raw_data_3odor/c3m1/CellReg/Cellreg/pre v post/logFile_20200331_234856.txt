@@ -1,0 +1,38 @@
+Sessions list:
+-----------------
+Session 1 - B:\CellReg - 3odor\c3m1\pre\spatial_footprints.mat
+Session 2 - B:\CellReg - 3odor\c3m1\post\spatial_footprints.mat
+
+
+General data parameters:
+------------------------
+Imaging technique - 2-photon
+Number of sessions - 2
+FOV size - 609.28X609.28 [microns] ; (x,y)
+Image size - 512X512 [pixels] ; (x,y)
+
+
+Session alignment parameters:
+----------------------------------
+Reference session - 1
+Alignment Type - Translations
+
+
+Cell registration parameters:
+-----------------------------
+Model maximal distance - 15 [microns]
+initial registration type - Centroid distances
+Initial threshold - 15 [microns]
+Registration approach - Simple threshold
+Final threshold - 10 [microns] 
+
+
+General results:
+----------------
+Final number of cells - 90
+Average fraction of active cells - 0.7
+
+
+
+Comments:
+---------
